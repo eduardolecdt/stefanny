@@ -1,0 +1,22 @@
+/* Importação das fontes */
+@font-face {
+  font-family: 'inter-regular';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://arquivos.levelmember.com/fontes/Inter-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'inter-bold';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://arquivos.levelmember.com/fontes/Inter-Bold.woff') format('woff');
+}
+@font-face {
+  font-family: 'alexandria-bold';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://arquivos.levelmember.com/fontes/Alexandria-Bold.woff') format('woff');
+}
